@@ -6,6 +6,6 @@ I enjoy working with technologies like ReactJS, Bootstrap and JQuery. I'm also l
 ## Contact
 
 - My [Linkedin](https://www.linkedin.com/in/nicolas-pellecchia-440a01217/)
-- My [Portfolio](https://nmpellecchia.github.io/my-portfolio/)
+- My [Portfolio](https://nmpellecchia.github.io/portfolio-v2/)
 - Send me an [email](mailto:nicolasmpellecchia@gmail.com)
 - Send me a message on [Telegram](https://t.me/NicoPell)
